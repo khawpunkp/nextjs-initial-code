@@ -6,4 +6,6 @@ dayjs.locale("th");
 dayjs.extend(buddhistEra);
 dayjs.extend(customParseFormat);
 
-export default dayjs;
+const buddhistDayjs = dayjs
+
+export default buddhistDayjs
